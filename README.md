@@ -9,12 +9,12 @@
 - 🔄 **Master of Computer Science** (Applied Computing) - UM *Current* 
 
 ### 💼 Career Highlights
-- **Mercedes-Benz** 🚗
+- **Mercedes-Benz** 🚗 (2023 Jan - 2025 Oct)
   - Full Stack Developer
   - REST API & Distributed Systems Development
   - Building scalable backend solutions
 
-- **FWD Insurance** 🏢
+- **FWD Insurance** 🏢 (2025 Nov - Current)
   - System Analyst
   - Managing multiple services with Java/Spring Boot
   - Architecting robust solutions
