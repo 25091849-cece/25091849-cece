@@ -1,28 +1,80 @@
-# 🎉 Welcome to the 25091849-cece Repository! 🎉  
 
-We're thrilled to have you here! Explore, learn, and contribute to an exciting journey of innovation and creativity! 🚀  
+---
 
-## 🌟 Features  
-- **User-Friendly Interface:** Easy to navigate and interact with!  
-- **Rich Content:** Engaging tutorials, guides, and fun projects await you!  
-- **Community Driven:** Join a vibrant community of creators! 💬  
+## 🎓 My Journey So Far
 
-## 📚 Resources  
-- [Documentation](https://example.com/docs)  
-- [Community Forum](https://example.com/forum)  
-- [GitHub Issues](https://github.com/25091849-cece/25091849-cece/issues)  
+### 📚 Education
+- 🏆 **Bachelor of Computer Science** in Software Engineering
+- 🏆 **Master of Business Administration** (MBA)
+- 🔄 **Master of Computer Science** (Applied Computing) - *Current*
 
-## 🤝 Contribute  
-Your contributions are what make this project fantastic!  
-- Fork the repo  
-- Make your changes  
-- Submit a pull request!  
+### 💼 Career Highlights
+- **Mercedes-Benz** 🚗
+  - Full Stack Developer
+  - REST API & Distributed Systems Development
+  - Building scalable backend solutions
 
-## 🎈 Let's Connect!  
-Follow us on social media for updates and fun content!  
-- [Twitter](https://twitter.com/yourhandle)  
-- [Instagram](https://instagram.com/yourhandle)  
+- **FWD Insurance** 🏢
+  - System Analyst
+  - Managing multiple services with Java/Spring Boot
+  - Architecting robust solutions
 
-Thank you for being part of our journey! Let's make something amazing together! 💖  
+---
 
-Happy Coding!  
+## 🎸 Fun About Me
+
+🎵 **Guitar Enthusiast** - Currently mastering:
+- C chord ✅
+- G chord ✅
+- D chord ✅
+- Em chord ✅
+- *And working through more... 🎼*
+
+**When I'm not coding:** You'll find me with a guitar in hand, brewing the perfect cup of coffee, or diving into the latest tech trends!
+
+---
+
+## 🎯 Learning Goals & Course Expectations
+
+*My mission:* To master the art of software evolution! 
+
+Through hands-on experience, I'm building expertise in:
+- ✅ Software maintenance & evolution strategies
+- ✅ Refactoring for code quality
+- ✅ Modernizing legacy systems
+- ✅ Connecting technical excellence with business strategy
+
+---
+
+## 🌟 Tech Stack I Work With
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-00A4EF?style=for-the-badge&logo=buffer&logoColor=white)
+
+</div>
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+📧 Want to chat about **Java**, **system design**, or **guitar tips**? 
+
+🤝 I'm always interested in collaborating on **backend projects** and **software architecture**!
+
+⭐ **"The best code is not just functional, it's maintainable, scalable, and beautiful."**
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Cecelia** | *Powered by Tea ☕ & Passion 💪*
+
+</div>
