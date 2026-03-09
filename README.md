@@ -4,9 +4,9 @@
 ## 🎓 My Journey So Far
 
 ### 📚 Education
-- 🏆 **Bachelor of Computer Science** in Software Engineering
-- 🏆 **Master of Business Administration** (MBA)
-- 🔄 **Master of Computer Science** (Applied Computing) - *Current*
+- 🏆 **Bachelor of Computer Science** in Software Engineering - TARUMT
+- 🏆 **Master of Business Administration** (MBA) - UKM
+- 🔄 **Master of Computer Science** (Applied Computing) - UM *Current* 
 
 ### 💼 Career Highlights
 - **Mercedes-Benz** 🚗
