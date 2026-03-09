@@ -47,10 +47,10 @@ Through hands-on experience, I'm building expertise in:
 ---
 
 ## 💬 Let's Connect!
+💼 [LinkedIn Profile](https://www.linkedin.com/in/cecelia-lim-jie-shi-160201201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 <div align="center">
-💼 [LinkedIn Profile](https://www.linkedin.com/in/cecelia-lim-jie-shi-160201201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-  
+
 🤝 I'm always interested in collaborating on **backend projects** and **software architecture**!
 
 ⭐ **"The best code is not just functional, it's maintainable, scalable, and beautiful."**
