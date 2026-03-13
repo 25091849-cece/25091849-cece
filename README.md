@@ -51,8 +51,6 @@ Through hands-on experience, I'm building expertise in:
 
 <div align="center">
 
-🤝 I'm always interested in collaborating on **backend projects** and **software architecture**!
-
 ⭐ **"The best code is not just functional, it's maintainable, scalable, and beautiful."**
 
 </div>
